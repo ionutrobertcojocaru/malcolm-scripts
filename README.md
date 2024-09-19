@@ -6,4 +6,4 @@ Scripts that I made to implement the following network analysis capabilities to 
 4. Vulnerability Assessment
 
 # How to install them
-1. ```https://github.com/xnih/satori```
+1. ```git clone https://github.com/xnih/satori```

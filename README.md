@@ -15,7 +15,8 @@ Scans for listening ports of each host that receive inbound traffic within the n
 The script pulls information from NetBox, builds the CPEs, and associates the relevant CVEs using the NIST API.
 
 # How to install them
-1. ```git clone https://github.com/xnih/satori```
-2. Run Malcolm, and in Netbox create custom fields 'os' and 'last_seen' for each device.
-3. Edit the code with your parameters.
-4. Create cronjobs to run them regularly.
+1. ```git clone https://github.com/xnih/satori``` in the installation folder
+2. Run Malcolm 
+3. In Netbox create custom fields 'os' and 'last_seen' for each device.
+4. Edit the code with your parameters.
+5. Create cronjobs to run them regularly.
